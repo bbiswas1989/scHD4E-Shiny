@@ -7,6 +7,6 @@ install.packages("shiny")
 
 library(shiny)
 
-shiny::runApp('scDEA-shiny')
+shiny::runApp('scHD4E-shiny') # Please change the directory in R according to the downloaded location
 
 Contact with Mr. Biplab Biswas if you are facing any problems. Email: bbiswas@isrt.ac.bd
