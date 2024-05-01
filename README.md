@@ -7,6 +7,6 @@ install.packages("shiny")
 
 library(shiny)
 
-shiny::runApp('scDEA-shiny')
+shiny::runApp('scDEA-Shiny')
 
 Contact with Mr. Biplab Biswas if you are facing any problems. Email: bbiswas@isrt.ac.bd
